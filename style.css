@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(120deg, #89f7fe, #66a6ff);
+    font-family: Arial;
+}
+
+.card {
+    width: 350px;
+    margin: 100px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 12px;
+    text-align: center;
+}
+
+input, button {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
